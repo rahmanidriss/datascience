@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../www"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../masterbigdata"
+		},
+		{
+			"path": "../../dm"
+		},
+		{
+			"path": "../../../bigdata/airflow"
+		}
+	],
+	"settings": {}
+}
