@@ -1,0 +1,7 @@
+executor-memory
+spark.executor.memoryOverhead
+spark.sql.shuffle.partitions
+executor-cores
+num-executors
+
+spark.executor.pyspark.memory (yarn annd kuberneties)

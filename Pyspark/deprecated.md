@@ -1,0 +1,1 @@
+approxCountDistinct use count_distinct insteed 

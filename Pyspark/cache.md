@@ -1,0 +1,9 @@
+- StorageLevel
+ - df.storageLevel
+ - StorageLevel(useDisk, useMemory, useOffHeap, deserialized, replication=1)
+ - exp: df.persist(pyspark.StorageLevel(False, True, False, False, 1))
+- is_cached
+- cache
+- persist
+- unpersist
+- isLocal 
