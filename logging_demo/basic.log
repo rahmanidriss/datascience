@@ -1,0 +1,26 @@
+
+2023-12-30 20:36:33 DEBUG this is a debug message
+2023-12-30 20:36:33 INFO this is info message
+2023-12-30 20:36:33 WARNING this is warning message
+2023-12-30 20:36:33 ERROR this is error message
+2023-12-30 20:36:33 CRITICAL this is a critical message
+2023-12-30 20:37:42 DEBUG this is a debug message
+2023-12-30 20:37:42 INFO this is info message
+2023-12-30 20:37:42 WARNING this is warning message
+2023-12-30 20:37:42 ERROR this is error message
+2023-12-30 20:37:42 CRITICAL this is a critical message
+2023-12-30 20:40:31  root DEBUG this is a debug message
+2023-12-30 20:40:31  root INFO this is info message
+2023-12-30 20:40:31  root WARNING this is warning message
+2023-12-30 20:40:31  root ERROR this is error message
+2023-12-30 20:40:31  root CRITICAL this is a critical message
+2023-12-30 20:41:16  root DEBUG this is a debug message
+2023-12-30 20:41:16  root INFO this is info message
+2023-12-30 20:41:16  root WARNING this is warning message
+2023-12-30 20:41:16  root ERROR this is error message
+2023-12-30 20:41:16  root CRITICAL this is a critical message
+2023-12-30 20:41:43  root DEBUG this is a debug message
+2023-12-30 20:41:43  root INFO this is info message
+2023-12-30 20:41:43  root WARNING this is warning message
+2023-12-30 20:41:43  root ERROR this is error message
+2023-12-30 20:41:43  root CRITICAL this is a critical message
